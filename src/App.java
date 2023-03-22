@@ -1,9 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("Dobrados Não!:");
-        String[] meuArray1 = new String[]{"Morango", "Caju", "Acerola", "Manga"};
-        String[] meuArray2 = new String[]{"Pêra", "Caju", "Morango", "Kiwi"};
-        DobradosNao(meuArray1, meuArray2);
     }
 
     public static void DobradosNao(String[] array1, String[] array2) {
